@@ -18,7 +18,7 @@ public class Runner {
                 System.out.println("Привет, Вячеслав");
             } else System.out.println("Нет такого имени");
         }catch (InputMismatchException e){
-            System.out.println("Выввели некорректные данные");
+            System.out.println("Вы ввели некорректные данные");
         }
     }
 }
