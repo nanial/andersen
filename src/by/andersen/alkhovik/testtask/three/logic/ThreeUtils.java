@@ -1,4 +1,4 @@
-package testtask.three.logic;
+package by.andersen.alkhovik.testtask.three.logic;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;

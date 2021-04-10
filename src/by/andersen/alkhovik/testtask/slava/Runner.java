@@ -1,4 +1,4 @@
-package testtask.slava;
+package by.andersen.alkhovik.testtask.slava;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

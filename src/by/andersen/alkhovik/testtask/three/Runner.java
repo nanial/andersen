@@ -1,4 +1,4 @@
-package testtask.three;
+package by.andersen.alkhovik.testtask.three;
 
 import by.andersen.alkhovik.testtask.three.logic.ThreeUtils;
 

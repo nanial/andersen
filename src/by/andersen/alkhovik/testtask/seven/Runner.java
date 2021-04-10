@@ -1,4 +1,4 @@
-package testtask.seven;
+package by.andersen.alkhovik.testtask.seven;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
