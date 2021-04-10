@@ -32,7 +32,7 @@ public class ThreeUtils {
             }
 
         }catch (InputMismatchException e){
-            System.out.println("Выввели некорректные данные");
+            System.out.println("Вы ввели некорректные данные");
         }
         return inputList;
     }
